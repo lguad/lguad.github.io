@@ -122,7 +122,7 @@ label.fcf-label {
 
 .fcf-btn-primary {
     color: #fff;
-    background-color: #007bff;
+    background-color: ##119de2;
     border-color: #007bff;
 }
 
@@ -134,7 +134,7 @@ label.fcf-label {
 
 .fcf-btn-primary:focus, .fcf-btn-primary.focus {
     color: #fff;
-    background-color: #119de2;
+    background-color: #0069d9;
     border-color: #0062cc;
     box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
