@@ -59,7 +59,7 @@ select.fcf-form-control[size], select.fcf-form-control[multiple] {
 }
 
 textarea.fcf-form-control {
-    font-family: -apple-system, Arial, sans-serif;
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
     height: auto;
 }
 
@@ -134,7 +134,7 @@ label.fcf-label {
 
 .fcf-btn-primary:focus, .fcf-btn-primary.focus {
     color: #fff;
-    background-color: #0069d9;
+    background-color: #119de2;
     border-color: #0062cc;
     box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
